@@ -1,1 +1,6 @@
 Hola mundo cruel!
+
+Introduccion
+
+Esto es un hola mundo porque estoy en la parte inicial de aprender GitHub y esto mandando varias versiones 
+de un mismo archivo a la nube para que mis desarrollos esten protegidos contra cualquier eventualidad que pueda pasar.
